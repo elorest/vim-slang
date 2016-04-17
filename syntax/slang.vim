@@ -1,8 +1,8 @@
 " Vim syntax file
 " Language: Slang
-" Maintainer: Andrew Stone <andy@stonean.com>
+" Maintainer: Isaac Sloan <isaac@isaacsloan.com>
 " Version:  1
-" Last Change:  2010 Sep 25
+" Last Change:  2016 April 17
 " TODO: Feedback is welcomed.
 
 " Quit when a syntax file is already loaded.
